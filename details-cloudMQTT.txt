@@ -1,0 +1,12 @@
+https://api.cloudmqtt.com/
+
+Details:
+    Server  : soldier.cloudmqtt.com
+    User    : obpkkwdc
+    Password: 1lUnSF15XpWM
+    Port	: 14222
+    SSL Port: 24222
+    Websockets Port (TLS only)	: 34222
+
+    API access
+    API Key :   f60e520d-fbc3-4859-87df-53f7af5d3ab4
